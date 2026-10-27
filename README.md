@@ -85,4 +85,4 @@ python src/03_statistical_tests.py
 
 ## Team
 
-Wendi Zhang, Ching Lee, Ganlu Sun, and Yuchen Ji — ISE 521, University of Southern California.
+Wendi Zhang, Lilian Lee, Ganlu Sun, and Yuchen Ji — ISE 521, University of Southern California.
